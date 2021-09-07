@@ -1,0 +1,650 @@
+1631036869367	geckodriver	INFO	Listening on 127.0.0.1:1073
+1631036872445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileeyFsen"
+1631036873874	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileeyFsen\\search.json.mozlz4", (void 0)))
+1631036879435	Marionette	INFO	Listening on port 1084
+1631036879936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1631036964317	Marionette	INFO	Stopped listening on port 1084
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631036967109	geckodriver	INFO	Listening on 127.0.0.1:1186
+1631036970210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilejE94fa"
+1631036971155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilejE94fa\\search.json.mozlz4", (void 0)))
+1631036976023	Marionette	INFO	Listening on port 1194
+1631036976104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631037003883	Marionette	INFO	Stopped listening on port 1194
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037011809	geckodriver	INFO	Listening on 127.0.0.1:1553
+1631037014843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilecLfwHO"
+1631037015949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilecLfwHO\\search.json.mozlz4", (void 0)))
+1631037020972	Marionette	INFO	Listening on port 1561
+1631037021057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D3,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.warn: "Resource  of root-node was not found."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle25 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: "Error writing request: getGrids"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.live.com"
+1631037179122	Marionette	INFO	Stopped listening on port 1561
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631037184776	geckodriver	INFO	Listening on 127.0.0.1:1068
+1631037187873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileVPzOtT"
+1631037188815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileVPzOtT\\search.json.mozlz4", (void 0)))
+1631037193500	Marionette	INFO	Listening on port 1078
+1631037193715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1631037261386	Marionette	INFO	Stopped listening on port 1078
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037265230	geckodriver	INFO	Listening on 127.0.0.1:26398
+1631037268355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilePtthIS"
+1631037269409	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilePtthIS\\search.json.mozlz4", (void 0)))
+1631037274107	Marionette	INFO	Listening on port 26406
+1631037274225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1631037328975	Marionette	INFO	Stopped listening on port 26406
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037332576	geckodriver	INFO	Listening on 127.0.0.1:26503
+1631037335689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile1hWtMf"
+1631037336847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile1hWtMf\\search.json.mozlz4", (void 0)))
+1631037341511	Marionette	INFO	Listening on port 26511
+1631037342009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631037384905	Marionette	INFO	Stopped listening on port 26511
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037390568	geckodriver	INFO	Listening on 127.0.0.1:26609
+1631037393647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilechzzZd"
+1631037394668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilechzzZd\\search.json.mozlz4", (void 0)))
+1631037399285	Marionette	INFO	Listening on port 26617
+1631037399544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631037437191	Marionette	INFO	Stopped listening on port 26617
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037773685	geckodriver	INFO	Listening on 127.0.0.1:1031
+1631037776785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileEOHmLB"
+1631037777733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileEOHmLB\\search.json.mozlz4", (void 0)))
+1631037782443	Marionette	INFO	Listening on port 1040
+1631037782680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631038729042	Marionette	INFO	Stopped listening on port 1040
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileUnF3oT\\search.json.mozlz4", (void 0)))
+1631037848389	Marionette	INFO	Listening on port 1171
+1631037848740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+1631037947304	Marionette	INFO	Stopped listening on port 1171
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631037979919	geckodriver	INFO	Listening on 127.0.0.1:1030
+1631037983032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileNgum1W"
+1631037984188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileNgum1W\\search.json.mozlz4", (void 0)))
+1631037988223	Marionette	INFO	Listening on port 1039
+1631037988415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631038728592	Marionette	INFO	Stopped listening on port 1039
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ofile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileSFU6rF\\search.json.mozlz4", (void 0)))
+1631038032473	Marionette	INFO	Listening on port 1924
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1631038032869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631038615462	Marionette	INFO	Stopped listening on port 1924
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ofile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile5oBb9U\\search.json.mozlz4", (void 0)))
+1631038076730	Marionette	INFO	Listening on port 1038
+1631038077190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631038728535	Marionette	INFO	Stopped listening on port 1038
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+rofile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilecDq6MF\\search.json.mozlz4", (void 0)))
+1631038585398	Marionette	INFO	Listening on port 24014
+1631038585720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631038614034	Marionette	INFO	Stopped listening on port 24014
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631038731994	geckodriver	INFO	Listening on 127.0.0.1:5311
+1631038735109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile5ni06J"
+1631038736157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile5ni06J\\search.json.mozlz4", (void 0)))
+1631038741261	Marionette	INFO	Listening on port 5319
+1631038741505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631038775087	Marionette	INFO	Stopped listening on port 5319
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631038778832	geckodriver	INFO	Listening on 127.0.0.1:12338
+1631038781926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilelurTty"
+1631038783019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilelurTty\\search.json.mozlz4", (void 0)))
+1631038787950	Marionette	INFO	Listening on port 12346
+1631038788303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.microsoftonline.com"
+1631039097918	Marionette	INFO	Stopped listening on port 12346
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+l\\Temp\\rust_mozprofile8j99MO"
+1631038901244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile8j99MO\\search.json.mozlz4", (void 0)))
+1631038905892	Marionette	INFO	Listening on port 12453
+1631038906217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631039097674	Marionette	INFO	Stopped listening on port 12453
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Settings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile4vNyLW\\search.json.mozlz4", (void 0)))
+1631038955101	Marionette	INFO	Listening on port 12556
+1631038955302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631039097478	Marionette	INFO	Stopped listening on port 12556
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+l\\Temp\\rust_mozprofileKgf6X2"
+1631039035093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileKgf6X2\\search.json.mozlz4", (void 0)))
+1631039039556	Marionette	INFO	Listening on port 12517
+1631039040084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631039055020	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631039097492	Marionette	INFO	Stopped listening on port 12517
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631039101433	geckodriver	INFO	Listening on 127.0.0.1:1029
+1631039104529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileud6IxN"
+1631039105668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileud6IxN\\search.json.mozlz4", (void 0)))
+1631039110609	Marionette	INFO	Listening on port 1038
+1631039110917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631039133326	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039147074	Marionette	INFO	Stopped listening on port 1038
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631039245979	geckodriver	INFO	Listening on 127.0.0.1:1045
+1631039249073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileBM4SGK"
+1631039250322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileBM4SGK\\search.json.mozlz4", (void 0)))
+1631039254715	Marionette	INFO	Listening on port 28661
+1631039254970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631039274396	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631039517607	Marionette	INFO	Stopped listening on port 28661
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1631039522497	geckodriver	INFO	Listening on 127.0.0.1:3711
+1631039525589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileXbu1Kf"
+1631039526599	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileXbu1Kf\\search.json.mozlz4", (void 0)))
+1631039531050	Marionette	INFO	Listening on port 33757
+1631039531595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631039557829	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631040040634	Marionette	INFO	Stopped listening on port 33757
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390132,name=PContent::Msg_ReportServiceWorkerShutdownProgress) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1039691927	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039697215	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039697286	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039700422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1631040040826	Marionette	INFO	Stopped listening on port 1044
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+l\\Temp\\rust_mozprofile0142Gr"
+1631039805590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile0142Gr\\search.json.mozlz4", (void 0)))
+1631039810070	Marionette	INFO	Listening on port 17428
+1631039810138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631039830889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039845820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631039852136	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631039852571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: "Resource  of root-node was not found."
+console.warn: "Resource  of root-node was not found."
+1631040040319	Marionette	INFO	Stopped listening on port 17428
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040043800	geckodriver	INFO	Listening on 127.0.0.1:2661
+1631040046910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileE9j6QZ"
+1631040048140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileE9j6QZ\\search.json.mozlz4", (void 0)))
+1631040053208	Marionette	INFO	Listening on port 1034
+1631040053276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040070517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040078455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631040082161	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040082506	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040171940	Marionette	INFO	Stopped listening on port 1034
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631040195849	geckodriver	INFO	Listening on 127.0.0.1:1030
+1631040198964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileVrZ0uE"
+1631040200105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileVrZ0uE\\search.json.mozlz4", (void 0)))
+1631040204960	Marionette	INFO	Listening on port 1036
+1631040205328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040222830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631040231322	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631040236197	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040238000	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631040816638	Marionette	INFO	Stopped listening on port 1036
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ofile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileRQq3Pg\\search.json.mozlz4", (void 0)))
+1631040588170	Marionette	INFO	Listening on port 1039
+1631040588677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040606694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040614665	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631040618318	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040618684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040817572	Marionette	INFO	Stopped listening on port 1039
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileHQ757u"
+1631040710453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileHQ757u\\search.json.mozlz4", (void 0)))
+1631040716045	Marionette	INFO	Listening on port 1030
+1631040716459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040718943	Marionette	INFO	Stopped listening on port 1030
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631040721468	geckodriver	INFO	Listening on 127.0.0.1:1029
+1631040724559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilelRVSCU"
+1631040725720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofilelRVSCU\\search.json.mozlz4", (void 0)))
+1631040731288	Marionette	INFO	Listening on port 30383
+1631040731599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040731886	Marionette	INFO	Stopped listening on port 30383
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1631040837721	geckodriver	INFO	Listening on 127.0.0.1:17826
+1631040840868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFBl0IN"
+1631040842054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFBl0IN\\search.json.mozlz4", (void 0)))
+1631040847074	Marionette	INFO	Listening on port 1034
+1631040847236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631040870276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040877957	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631040883231	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040883516	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: "Resource  of root-node was not found."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+1631042317589	Marionette	INFO	Stopped listening on port 1034
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631040999530	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631040999920	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631042317789	Marionette	INFO	Stopped listening on port 1031
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile8cgLH7\\search.json.mozlz4", (void 0)))
+1631041039103	Marionette	INFO	Listening on port 1046
+1631041039285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631041058870	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041066804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631041072281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041072569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: "Resource  of root-node was not found."
+1631042319080	Marionette	INFO	Stopped listening on port 1046
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ofile6AZVtP\\search.json.mozlz4", (void 0)))
+1631041254872	Marionette	INFO	Listening on port 1062
+1631041255151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631041282473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041291030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631041296115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041296656	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631042319983	Marionette	INFO	Stopped listening on port 1062
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+n port 12158
+1631041372208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631041392345	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041403180	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631041408853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041410905	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631042320668	Marionette	INFO	Stopped listening on port 12158
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+631041554654	Marionette	INFO	Listening on port 1078
+1631041554822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631041577295	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NetworkError: AutoCancel
+JavaScript error: , line 0: NetworkError: AutoCancel
+1631041587523	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631041592444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041592771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631042321362	Marionette	INFO	Stopped listening on port 1078
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileYwsbff\\search.json.mozlz4", (void 0)))
+1631041918177	Marionette	INFO	Listening on port 1114
+1631041918369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://outlook.office365.com/owa/prefetch.aspx, line 18: NS_ERROR_NOT_INITIALIZED: 
+1631041954185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041964754	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631041970472	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631041970933	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631042323467	Marionette	INFO	Stopped listening on port 1114
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+l\\Temp\\rust_mozprofile7vGpHS"
+1631042269848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile7vGpHS\\search.json.mozlz4", (void 0)))
+1631042276852	Marionette	INFO	Listening on port 1077
+1631042277269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631042307347	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631042324306	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631042330019	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631042330551	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631042825357	Marionette	INFO	Stopped listening on port 1077
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631042844431	geckodriver	INFO	Listening on 127.0.0.1:1034
+1631042847577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFpdQci"
+1631042849319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFpdQci\\search.json.mozlz4", (void 0)))
+1631042855580	Marionette	INFO	Listening on port 1061
+1631042856072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631042890678	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631042903759	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631042907764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631042908115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631043335596	Marionette	INFO	Stopped listening on port 1061
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631044208797	geckodriver	INFO	Listening on 127.0.0.1:1061
+1631044211896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFM9afH"
+1631044212973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileFM9afH\\search.json.mozlz4", (void 0)))
+1631044217738	Marionette	INFO	Listening on port 1072
+1631044218256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631044241148	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631044250010	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631044255541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631044255970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: "Resource  of root-node was not found."
+1631046539348	Marionette	INFO	Stopped listening on port 1072
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+rofileoOkm4M\\search.json.mozlz4", (void 0)))
+1631044698778	Marionette	INFO	Listening on port 27522
+1631044699307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631044707434	Marionette	INFO	Stopped listening on port 27522
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631044739299	geckodriver	INFO	Listening on 127.0.0.1:27583
+1631044742339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile5Rh8hH"
+1631044742962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofile5Rh8hH\\search.json.mozlz4", (void 0)))
+1631044747511	Marionette	INFO	Listening on port 27593
+1631044747692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631044763583	Marionette	INFO	Stopped listening on port 27593
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631048586466	geckodriver	INFO	Listening on 127.0.0.1:1040
+1631048589561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileAQg5L1"
+1631048590516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofileAQg5L1\\search.json.mozlz4", (void 0)))
+1631048595562	Marionette	INFO	Listening on port 1059
+1631048595951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631048613597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631048623099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631048628663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631048629035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631048787059	Marionette	INFO	Stopped listening on port 1059
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631048789976	geckodriver	INFO	Listening on 127.0.0.1:1059
+1631048793059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofiletCRZn8"
+1631048793964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Serigne\\AppData\\Local\\Temp\\rust_mozprofiletCRZn8\\search.json.mozlz4", (void 0)))
+1631048798568	Marionette	INFO	Listening on port 1067
+1631048798985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631048816416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631048824219	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 17: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 23: ReferenceError: $ is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 249: ReferenceError: Namespace is not defined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 345: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 347: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: TypeError: Button is undefined
+JavaScript error: https://account.activedirectory.windowsazure.com/applications/redirecttofederatedapplication.aspx?Operation=LinkedSignIn&applicationId=120f4192-cada-45eb-9de5-e351fda20d41&tenantId=4001e375-31b4-4f03-b7d2-cb95ac6f5ff7, line 369: ReferenceError: Microsoft is not defined
+1631048831537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1631048831943	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631056218171	Marionette	INFO	Stopped listening on port 1067
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
