@@ -52,10 +52,15 @@ def main():
 	student = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "li.tabs:nth-child(3) > a:nth-child(1)")))
 	
 
-	driver.get('https://portal.na.edu/ICS/Students/NAU_Academic_Calendar.jnz')
+	# driver.get('https://portal.na.edu/ICS/Students/NAU_Academic_Calendar.jnz')
 
+	
+
+
+	driver.get('https://portal.na.edu/ICS/Alumni/Alumni_Homepage.jnz?portlet=Calendar&screen=MainView&screenType=change&calendarView=list&date=9/8/2021')
+	
 	sleep(3)
-	calender = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "fc-body")))
+	calender = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "calendar-list-view")))
 
 	with open('Calendar_dump.txt', 'a') as file:
 		file.write(calender.get_attribute('innerHTML'))
