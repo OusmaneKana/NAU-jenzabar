@@ -21,7 +21,7 @@ def main():
 	sleep(1)
 	email = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "loginfmt")))
 
-	email.send_keys('sciss@na.edu')
+	email.send_keys('YOUR_EMAIL')
 
 
 	driver.find_element_by_id('idSIButton9').click()
@@ -30,7 +30,7 @@ def main():
 	WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, "i0118"))).click()
 	# pwd = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, "i0118")))
 	pwd = driver.find_element_by_id('i0118')
-	pwd.send_keys('Lollipop270915')
+	pwd.send_keys('YOUR_PASSWORD')
 	sleep(2)
 
 	WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.ID, "idSIButton9"))).click()
