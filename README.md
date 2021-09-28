@@ -5,6 +5,6 @@ The idea being this repository is to create a scripting program that would scrap
 
 ## Pre-requisite: 
 * North American University student credentials
-* python 3.7 or abobe
+* python 3.7 or above
 * geckdriver.exe saved in a /bin file located in the root folder (download link https://github.com/mozilla/geckodriver/releases/tag/v0.30.0)
 * For packages and dependencies check requirements.txt file
